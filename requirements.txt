@@ -1,0 +1,2 @@
+A pip requirements file:
+This file will be used to specify the dependencies required by this project.
